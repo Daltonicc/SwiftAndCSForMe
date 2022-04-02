@@ -58,6 +58,4 @@
 
 # CS
 
-## 자료구조
-
-## 네트워크
+* [객체지향 프로그래밍(OOP)](https://github.com/Daltonicc/SwiftAndCSForMe/issues/1)
