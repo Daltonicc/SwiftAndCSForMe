@@ -46,14 +46,14 @@
 * [앱의 생명주기 이해하기(App's Life Cycle)](https://daltonic.tistory.com/28?category=977963)
 * [Firebase Crashlytics - 누락된 Crashlytics dsym파일 로컬머신에서 찾기[SPM]](https://daltonic.tistory.com/26?category=977963)
 
-# Architecture/Design Pattern
+## Architecture/Design Pattern
 
-## Architecture
+### Architecture
 
 * [Clean Architecture 적용기 (1) - MVVM과 Clean Architecture](https://daltonic.tistory.com/43)
 * [Clean Architecture 적용기 (2) - Dependency, Clean Architecture 적용 이유에 대하여](https://daltonic.tistory.com/44?category=977963)
 
-## Design Pattern
+### Design Pattern
 
 * [Delegate Pattern 이해하기](https://daltonic.tistory.com/34)
 
