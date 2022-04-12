@@ -61,4 +61,7 @@
 
 * [객체지향 프로그래밍(OOP)](https://github.com/Daltonicc/SwiftAndCSForMe/issues/1)
 * [COW(Copy-On-Write) 이해하기](https://daltonic.tistory.com/48?category=977963)
+* [메모리 구조(Memory Structure) 이해하기](https://daltonic.tistory.com/52)
+
+## 네트워크
 * [네트워크 (1) - 개요](https://github.com/Daltonicc/SwiftAndCSForMe/issues/2)
