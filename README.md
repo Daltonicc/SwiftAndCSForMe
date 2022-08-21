@@ -33,6 +33,9 @@
 ### 프로토콜(Protocol)
 * [프로토콜(1) - Property Requirements](https://daltonic.tistory.com/31)
 
+### Combine
+* [@Published vs CurrentValueSubject](https://github.com/Daltonicc/SwiftAndCSForMe/issues/4)
+
 ### 기타(etc)
 * [Type Casting](https://daltonic.tistory.com/15?category=977963)
 * [class와 struct의 이니셜라이저(init)](https://daltonic.tistory.com/16)
